@@ -1,0 +1,15 @@
+name: TRECE
+ main: resource\Main.java
+ version: 1.0.0 
+ api: [1.0.0] 
+  
+ load: POSTWORLD 
+ author: Giski6159
+ description: Trade,rank,economy and custom enchants.   
+ description: comando exemplo 
+   usage: "Use: /TRECE Help!" 
+   permission: Treceplugin.Trece.Plugin 
+ permissions: 
+  exampleplugin.command.example: 
+   description: "ajuda os usuários a usar comandos" 
+   default: true
